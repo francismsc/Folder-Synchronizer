@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NewProject": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\frank\\Desktop\\Original\" \"C:\\Users\\frank\\Desktop\\Copy\" \"C:\\Users\\frank\\Desktop\\LogFolder\" \"5\""
+    }
+  }
+}
